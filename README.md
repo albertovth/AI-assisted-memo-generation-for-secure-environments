@@ -9,7 +9,7 @@ This project explores the use of pre-trained transformer models for automated me
 ## Background
 
 Organizations are increasingly turning to AI to automate routine tasks. 
-Several tools have become readily available to train generative language models, with organizational or private data.
+Several tools have become readily available to train generative language models, with organizational or private data. One example is https://gpt-trainer.com/
 This possibility opens for large potential efficiency gains for organizations, particularly those that depend on document generation,
 like memos, reports, correspondence and analysis.
 However, the use of cloud-based AI services raises concerns about data privacy, especially for sensitive information.
@@ -27,16 +27,20 @@ The solution involves two main alternative approaches:
 i) Partnering with AI-providers, to create secure processing infrastructures.
 ii) Investing in on-premises hardware, to host and train AI-models in-house.
 
-This solution is necessary in environments where data sensitivity is paramount, such as government agencies or healthcare providers. 
+This solution is necessary in environments where data sensitivity is paramount, such as government agencies, banks or healthcare providers. 
 Users would be organizational staff who require secure and efficient document creation.
 
 Images and diagrams of the system architecture can help visualize the setup and workflow.
 
 ## Data sources and AI-methods
 
-Data would come from the organization's own archives, ensuring that all sensitive information remains within a secure perimeter. 
+Data will come from the organization's own archives. This data can include internal memos and reports. 
+The project will ensure that all sensitive information remains within the organization's secure data perimeter. 
+The data will be used to adatp pre-trained transformer models to generate language in text form, in a way that responds to the document needs of the organization.
 
-Pre-trained models from sources that allow on-premises deployment would be utilized to tailor the solution to specific needs.
+The project could make use of AI libraries like TensorFlow or PyTorch. Other possibilities are Hugging Face's Transformers, where several models are available. The project can also use Scikit-learn, for simpler tasks, and ONNX, to facilitate work accross models and frameworks. The choice of library(ies) will depend on the organization's specific needs, and the approach selected.
+
+An alternative to in-house model training is partnering with AI-providers like OpenAI, Microsoft, or Google, to use their advanced models securely. These providers may offer appropriate dedicated enterprise solutions, in line with data privacy. Such partnerships might make the project simpler, but would also depend on appropriate service agreements, and a high level of trust with the provider, which might not be applicable for all types of organizatios.
 
 ## Challenges
 
