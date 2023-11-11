@@ -68,7 +68,7 @@ This project draws inspiration from a variety of sources. Notable references inc
 
 - Martinho-Truswell, E. (2018, January 26). How AI Could Help the Public Sector. Harvard Business Review. Updated January 29, 2018. Available at: [Harvard Business Review - How AI Could Help the Public Sector](https://hbr.org/2018/01/how-ai-could-help-the-public-sector)
 
-- Rebitzer, J. B., & Rebitzer, R. S. (2023, September 14). AI Adoption in U.S. Health Care Won’t Be Easy. Harvard Business Review. Available at: [Harvard Business Review - AI Adoption in U.S. Health Care Won’t Be Easy](https://hbr.org/2023/09/ai-adoption-in-us-health-care-wont-be-easy)
+- Rebitzer, J. B., & Rebitzer, R. S. (2023, September 14). AI Adoption in U.S. Health Care Won’t Be Easy. Harvard Business Review. Available at: [Harvard Business Review - AI Adoption in U.S. Health Care Won’t Be Easy](https://hbr.org/2023/09/ai-adoption-in-u-s-health-care-wont-be-easy)
 
 - Sponsor content by Cloudera, AMD & Dell. (2023, August 28). How a Hybrid Platform Can Help Enable Trusted Generative AI. Harvard Business Review. Available at: [Harvard Business Review - How a Hybrid Platform Can Help Enable Trusted Generative AI](https://hbr.org/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai)
 
