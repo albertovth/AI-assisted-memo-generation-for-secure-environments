@@ -44,11 +44,18 @@ An alternative to in-house model training is partnering with AI-providers like O
 
 ## Challenges
 
-This project does not address the cost and expertise needed to set up in-house AI infrastructures, or the complexities of international data privacy laws. Ethical considerations include potential misuse of AI-generated documents and ensuring that AI-generated texts are clearly identified as such.
+- There is a high cost and expertise needed to set up in-house AI infrastructures.
+- Agreements with providers can be intricate and involve high risk for involved parties.
+- International data privacy laws are complex, and could hinder or complicate the project.
+- Ethical considerations include potential misuse of AI-generated documents and ensuring that AI-generated texts are clearly identified as such.
+
+These risks should be measured against the risk of allowing organizations either: 
+i) use current AI models without securing their data, or 
+ii) prohibit the use of AI models in their organizations, missing out on the potential benefits.
 
 ## What next?
 
-To expand this project, collaboration with cybersecurity experts and legal advisors would be necessary. 
+The implementation of this project implies collaboration with cybersecurity experts and legal advisors, depending on the organization.
 Further development could also involve creating more sophisticated models tailored to different types of documents and organizational needs.
 
 ## Acknowledgments
@@ -65,7 +72,7 @@ This project draws inspiration from a variety of sources. Notable references inc
 
 - Sponsor content by Cloudera, AMD & Dell. (2023, August 28). How a Hybrid Platform Can Help Enable Trusted Generative AI. Harvard Business Review. Available at: [Harvard Business Review - How a Hybrid Platform Can Help Enable Trusted Generative AI](https://hbr.org/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai)
 
-Please note that these references are used for inspirational purposes, and to frame the context of the project within current discussions on AI and data privacy. The actual content and ideas within the project README are original works created for the Building AI course.
+Please note that these references are used for inspirational purposes, and to frame the context of the project within current discussions on AI and data privacy. The actual content and ideas within the project README are original, created for the Building AI course.
 
 
 
