@@ -40,7 +40,7 @@ The data will be used to adapt pre-trained transformer models to generate langua
 
 The project could make use of AI libraries like TensorFlow or PyTorch. Other possibilities are Hugging Face's Transformers, where several models are available. The project can also use Scikit-learn, for simpler tasks, and ONNX, to facilitate work accross models and frameworks. The choice of library(ies) will depend on the organization's specific needs, and the approach selected.
 
-An alternative to in-house model training is partnering with AI-providers like OpenAI, Microsoft, or Google, to use their advanced models securely. These providers may offer appropriate dedicated enterprise solutions, in line with data privacy. Such partnerships might make the project simpler, but would also depend on appropriate service agreements, and a high level of trust with the provider, which might not be applicable for all types of organizatios.
+An alternative to in-house model training is partnering with AI-providers like OpenAI, Microsoft, or Google, to use their advanced models securely. These providers may offer appropriate dedicated enterprise solutions, in line with data privacy. Such partnerships might make the project simpler, but would also depend on appropriate service agreements, and a high level of trust with the provider, which might not be applicable for all types of organizations.
 
 ## Challenges
 
