@@ -35,7 +35,7 @@ Images and diagrams of the system architecture can help visualize the setup and 
 ## Data sources and AI-methods
 
 Data will come from the organization's own archives. This data can include internal memos and reports. 
-The project will ensure that all sensitive information remains within the organization's secure data perimeter. 
+The project will ensure that all sensitive information remains secured.
 The data will be used to adapt pre-trained transformer models to generate language in text form, in a way that responds to the document needs of the organization.
 
 The project could make use of AI libraries like TensorFlow or PyTorch. Other possibilities are Hugging Face's Transformers, where several models are available. The project can also use Scikit-learn, for simpler tasks, and ONNX, to facilitate work accross models and frameworks. The choice of library(ies) will depend on the organization's specific needs, and the approach selected.
