@@ -27,7 +27,7 @@ The solution involves two main alternative approaches:
 i) Partnering with AI-providers, to create secure processing infrastructures.
 ii) Investing in on-premises hardware, to host and train AI-models in-house.
 
-This solution is necessary in environments where data sensitivity is paramount, such as government agencies, banks or healthcare providers. 
+This project is necessary in environments where data sensitivity is paramount, such as government agencies, banks or healthcare providers. 
 Users would be organizational staff who require secure and efficient document creation.
 
 Images and diagrams of the system architecture can help visualize the setup and workflow.
