@@ -70,7 +70,7 @@ This project draws inspiration from a variety of sources. Notable references inc
 
 - Rebitzer, J. B., & Rebitzer, R. S. (2023, September 14). AI Adoption in U.S. Health Care Won’t Be Easy. Harvard Business Review. Available at: [Harvard Business Review - AI Adoption in U.S. Health Care Won’t Be Easy](https://hbr.org/2023/09/ai-adoption-in-u-s-health-care-wont-be-easy)
 
-- Sponsor content by Cloudera, AMD & Dell. (2023, August 28). How a Hybrid Platform Can Help Enable Trusted Generative AI. Harvard Business Review. Available at: [Harvard Business Review - How a Hybrid Platform Can Help Enable Trusted Generative AI](https://hbr.org/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai)
+- Sponsor content by Cloudera, AMD & Dell. (2023, August 28). How a Hybrid Platform Can Help Enable Trusted Generative AI. Harvard Business Review. Available at: [Harvard Business Review - How a Hybrid Platform Can Help Enable Trusted Generative AI](https://hbr.org/sponsored/2023/08/how-a-hybrid-platform-can-help-enable-trusted-generative-ai)
 
 Please note that these references are used for inspirational purposes, and to frame the context of the project within current discussions on AI and data privacy. The actual content and ideas within the project README are original, created for the Building AI course.
 
