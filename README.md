@@ -16,7 +16,7 @@ However, the use of cloud-based AI services raises concerns about data privacy, 
 The following points summarize the project:
 
 * Organizations who share information on cloud servers, like some AI-models, increase the risk of exposing this information
-* At the same time, the potential benefits of AI create a desire for AI capabilities
+* At the same time, the potential benefits of AI create a desire for AI-capabilities
 * This creates a need for secure, AI-powered document generation, either on-premises or externally
 
 This project is driven by the need to balance the efficiency gains from AI with the imperative of data security. 
