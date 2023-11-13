@@ -15,7 +15,7 @@ like memos, reports, correspondence and analysis.
 However, the use of cloud-based AI services raises concerns about data privacy, especially for sensitive information.
 The following points summarize the project:
 
-* Organizations who store sensitive information on cloud servers, increase the risk of exposing this information
+* Organizations who share information on cloud servers, like some AI-models, increase the risk of exposing this information
 * At the same time, the potential benefits of AI create a desire for AI capabilities
 * This creates a need for secure, AI-powered document generation, either on-premises or externally
 
